@@ -1,3 +1,7 @@
+# Microsoft Activation
+- ```irm https://get.activated.win | iex```
+## Office Installation
+- [Office C2R Installers ❤️](https://gravesoft.dev/office_c2r_links)
 # Driver Installation Guide
 
 ## Intel Drivers
