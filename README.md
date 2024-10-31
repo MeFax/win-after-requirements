@@ -1,7 +1,9 @@
 # Windows Installation
 - [Windows 11](https://massgrave.dev/windows_11_links)
 - [Windows 10](https://massgrave.dev/windows_10_links)
-- [AtlasOS](https://atlasos.net/)
+- [AtlasOS ❤️](https://atlasos.net/)
+- [ReviOS](https://revi.cc/)
+- [GhostSpectre](https://ghostspectre.org/)
 
 # Windows Tools
 - [WinUtil](https://github.com/ChrisTitusTech/winutil)
