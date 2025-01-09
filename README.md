@@ -150,4 +150,4 @@ irm https://get.activated.win | iex
 ---
 
 ## Katkı ve Geliştirme
-Bu rehberi geliştirmek veya katkıda bulunmak isterseniz, lütfen bir pull request açın ya da sorunları [Issues](https://github.com/) sekmesi üzerinden bildirin.
+Bu rehberi geliştirmek veya katkıda bulunmak isterseniz, lütfen bir pull request açın ya da sorunları [Issues](/issues) sekmesi üzerinden bildirin.
