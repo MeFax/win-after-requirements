@@ -23,6 +23,9 @@ Bu rehber, Windows işletim sistemlerini yüklemek, optimize etmek, aktivasyon i
 ## 3. Microsoft Aktivasyon
 Windows ve Office ürünlerini etkinleştirmek için:
 
+1. PowerShell'i **yönetici olarak** açın.
+2. Aşağıdaki komutu çalıştırın:
+
 ```powershell
 irm https://get.activated.win | iex
 ```
@@ -36,14 +39,22 @@ irm https://get.activated.win | iex
 ## 5. Sürücü Kurulum Rehberi
 
 ### Intel Sürücüleri
-- [Intel Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/detect.html)
+1. [Intel Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/detect.html) bağlantısına tıklayın.
+2. "Download Now" düğmesine tıklayarak yazılımı indirin.
+3. İndirdiğiniz dosyayı çalıştırarak yükleme işlemini tamamlayın.
+4. Araç, sisteminizi tarayarak gerekli sürücüleri otomatik olarak yükleyecektir.
 
 ### NVIDIA Sürücüleri
-- [NVCleanstall by TechPowerUp](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+1. [NVIDIA Resmi Sürücü İndirme Sayfası](https://www.nvidia.com/tr-tr/drivers/) veya [NVCleanstall by TechPowerUp](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) araçlarından birini kullanabilirsiniz.
+2. NVIDIA ekran kartı modelinizi belirleyin.
+3. Model bilgilerinizi girerek uygun sürücüyü indirin.
+4. Sürücüyü yüklerken "Custom Installation" seçeneğini kullanarak gereksiz bileşenlerden kurtulabilirsiniz (NVCleanstall önerilir).
 
 ### Dell ve Alienware Sürücüleri
-- [Dell Support Assistant](https://downloads.dell.com/serviceability/catalog/SupportAssistInstaller.exe)
-- [Alienware Command Center 6.x - Full Installer for Alienware/Dell G Series System](https://dl.dell.com/FOLDER12124735M/2/Alienware-Command-Center-6x-Full-Installer-for_DDF5T_WIN_6.4.15.0_A00.EXE)
+1. [Dell Support Assistant](https://downloads.dell.com/serviceability/catalog/SupportAssistInstaller.exe) aracını indirin.
+2. Programı çalıştırarak sisteminiz için uygun sürücüleri taratın ve yükleyin.
+3. Alienware kullanıcıları için [Alienware Command Center 6.x](https://dl.dell.com/FOLDER12124735M/2/Alienware-Command-Center-6x-Full-Installer-for_DDF5T_WIN_6.4.15.0_A00.EXE) yazılımını indirerek yükleyebilirsiniz.
+4. Bu yazılım, oyun ve performans ayarlarını optimize etmek için kullanışlıdır.
 
 ---
 
