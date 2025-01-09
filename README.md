@@ -15,7 +15,7 @@ This guide provides resources for installing, optimizing, activating Windows ope
 ### Windows Operating Systems
 - [Windows 11](https://massgrave.dev/windows_11_links)
 - [Windows 10](https://massgrave.dev/windows_10_links)
-- [AtlasOS ❤️](https://atlasos.net/) (Optimized Windows version)
+- [AtlasOS 🌟](https://atlasos.net/) (Optimized Windows version)
 - [ReviOS](https://revi.cc/) (Performance-focused Windows version)
 - [GhostSpectre](https://ghostspectre.org/) (Lightweight Windows version)
 
@@ -23,10 +23,11 @@ This guide provides resources for installing, optimizing, activating Windows ope
 
 ## 2. Windows Tools
 - [WinUtil](https://github.com/ChrisTitusTech/winutil): Windows optimization and management tool.
+- [Visual C++ Redistributable Runtimes All-in-One 🌟](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/): Complete Visual C++ runtime package.
 
 ---
 
-## 3. Microsoft Activation
+## 3. Microsoft Activation 🌟
 To activate Windows and Office products:
 
 1. Open PowerShell as **Administrator**.
@@ -39,7 +40,7 @@ irm https://get.activated.win | iex
 ---
 
 ## 4. Office Installation Downloads
-- [Office C2R Installers ❤️](https://gravesoft.dev/office_c2r_links)
+- [Office C2R Installers 🌟](https://gravesoft.dev/office_c2r_links)
 
 ---
 
@@ -91,7 +92,7 @@ Bu rehber, Windows işletim sistemlerini yüklemek, optimize etmek, aktivasyon i
 ### Windows İşletim Sistemleri
 - [Windows 11](https://massgrave.dev/windows_11_links)
 - [Windows 10](https://massgrave.dev/windows_10_links)
-- [AtlasOS ❤️](https://atlasos.net/) (Optimize edilmiş Windows sürümü)
+- [AtlasOS 🌟](https://atlasos.net/) (Optimize edilmiş Windows sürümü)
 - [ReviOS](https://revi.cc/) (Performans odaklı Windows sürümü)
 - [GhostSpectre](https://ghostspectre.org/) (Hafifletilmiş Windows sürümü)
 
@@ -99,10 +100,11 @@ Bu rehber, Windows işletim sistemlerini yüklemek, optimize etmek, aktivasyon i
 
 ## 2. Windows Araçları
 - [WinUtil](https://github.com/ChrisTitusTech/winutil): Windows optimizasyon ve yönetim aracı.
+- [Visual C++ Redistributable Runtimes All-in-One 🌟](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/): Tümleşik Visual C++ çalışma zamanı paketi.
 
 ---
 
-## 3. Microsoft Aktivasyon
+## 3. Microsoft Aktivasyon 🌟
 Windows ve Office ürünlerini etkinleştirmek için:
 
 1. PowerShell'i **yönetici olarak** açın.
@@ -115,7 +117,7 @@ irm https://get.activated.win | iex
 ---
 
 ## 4. Office Kurulum İndirmeleri
-- [Office C2R Installers ❤️](https://gravesoft.dev/office_c2r_links)
+- [Office C2R Installers 🌟](https://gravesoft.dev/office_c2r_links)
 
 ---
 
@@ -128,7 +130,7 @@ irm https://get.activated.win | iex
 4. Araç, sisteminizi tarayarak gerekli sürücüleri otomatik olarak yükleyecektir.
 
 ### NVIDIA Sürücüleri
-1. [NVCleanstall by TechPowerUp](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) aracını indirin.
+1. [NVCleanstall by TechPowerUp 🌟](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) aracını indirin.
 2. Uygulamayı açın ve **İleri** (Next) düğmesine tıklayın.
 3. **Masaüstü Bilgisayarlar** için, yalnızca **Display Driver** seçeneğini seçin ve **İleri**'ye tıklayın.
 4. **Dizüstü Bilgisayarlar** için, **Display Driver** ve **Optimus** seçeneklerini seçin ve **İleri**'ye tıklayın. ([NVIDIA'nın web sitesinde](https://www.nvidia.com) daha fazla bilgi mevcut.)
