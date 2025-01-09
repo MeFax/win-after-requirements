@@ -52,10 +52,18 @@ irm https://get.activated.win | iex
 4. The tool will scan your system and automatically install the required drivers.
 
 ### NVIDIA Drivers
-1. Use either the [Official NVIDIA Driver Download Page](https://www.nvidia.com/tr-tr/drivers/) or [NVCleanstall by TechPowerUp](https://www.techpowerup.com/download/techpowerup-nvcleanstall/).
-2. Identify your NVIDIA graphics card model.
-3. Enter your model details to download the appropriate driver.
-4. During installation, use the "Custom Installation" option to remove unnecessary components (NVCleanstall recommended).
+1. Download [NVCleanstall by TechPowerUp](https://www.techpowerup.com/download/techpowerup-nvcleanstall/).
+2. Open the application and click **Next**.
+3. For **Desktops**, select **Display Driver** only, then click **Next**.
+4. For **Laptops**, select **Display Driver** and **Optimus**, then click **Next**. (More info available on [NVIDIA's website](https://www.nvidia.com)).
+5. After the driver is downloaded, configure the following options:
+   - Disable Installer Telemetry & Advertising.
+   - Perform a Clean Installation.
+   - Disable **Multiplane Overlay (MPO)**.
+   - Disable Driver Telemetry under **Show Expert Tweaks**.
+   - Use method compatible with Easy-Anti-Cheat (if required).
+6. Accept the "driver unsigned" warning, if prompted.
+7. Click **Install**, and the driver installation will complete.
 
 ### Dell and Alienware Drivers
 1. Download the [Dell Support Assistant](https://downloads.dell.com/serviceability/catalog/SupportAssistInstaller.exe).
@@ -120,10 +128,18 @@ irm https://get.activated.win | iex
 4. Araç, sisteminizi tarayarak gerekli sürücüleri otomatik olarak yükleyecektir.
 
 ### NVIDIA Sürücüleri
-1. [NVIDIA Resmi Sürücü İndirme Sayfası](https://www.nvidia.com/tr-tr/drivers/) veya [NVCleanstall by TechPowerUp](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) araçlarından birini kullanabilirsiniz.
-2. NVIDIA ekran kartı modelinizi belirleyin.
-3. Model bilgilerinizi girerek uygun sürücüyü indirin.
-4. Sürücüyü yüklerken "Custom Installation" seçeneğini kullanarak gereksiz bileşenlerden kurtulabilirsiniz (NVCleanstall önerilir).
+1. [NVCleanstall by TechPowerUp](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) aracını indirin.
+2. Uygulamayı açın ve **İleri** (Next) düğmesine tıklayın.
+3. **Masaüstü Bilgisayarlar** için, yalnızca **Display Driver** seçeneğini seçin ve **İleri**'ye tıklayın.
+4. **Dizüstü Bilgisayarlar** için, **Display Driver** ve **Optimus** seçeneklerini seçin ve **İleri**'ye tıklayın. ([NVIDIA'nın web sitesinde](https://www.nvidia.com) daha fazla bilgi mevcut.)
+5. Sürücü indirildikten sonra şu seçenekleri yapılandırın:
+   - Telemetri ve Reklamları Devre Dışı Bırakın.
+   - Temiz Bir Kurulum Gerçekleştirin.
+   - **Multiplane Overlay (MPO)** özelliğini devre dışı bırakın.
+   - **Gelişmiş Ayarları Göster** altında Sürücü Telemetrisini Devre Dışı Bırakın.
+   - Easy-Anti-Cheat ile uyumlu yöntemi kullanın (gerekliyse).
+6. İmzasız sürücü uyarısını kabul edin (eğer gösterilirse).
+7. **Yükle**'ye tıklayın ve sürücü yükleme işlemini tamamlayın.
 
 ### Dell ve Alienware Sürücüleri
 1. [Dell Support Assistant](https://downloads.dell.com/serviceability/catalog/SupportAssistInstaller.exe) aracını indirin.
