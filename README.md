@@ -1,4 +1,78 @@
-# Windows Installation and Tools Guide
+<div align="center">
+  <a href="#tr">🇹🇷 Türkçe</a> | <a href="#en">🇬🇧 English</a>
+</div>
+
+---
+
+# 🇬🇧 Windows Installation and Tools Guide
+
+This guide provides resources for installing, optimizing, activating Windows operating systems, and managing driver installations.
+
+---
+
+## 1. Windows Installation Downloads
+
+### Windows Operating Systems
+- [Windows 11](https://massgrave.dev/windows_11_links)
+- [Windows 10](https://massgrave.dev/windows_10_links)
+- [AtlasOS ❤️](https://atlasos.net/) (Optimized Windows version)
+- [ReviOS](https://revi.cc/) (Performance-focused Windows version)
+- [GhostSpectre](https://ghostspectre.org/) (Lightweight Windows version)
+
+---
+
+## 2. Windows Tools
+- [WinUtil](https://github.com/ChrisTitusTech/winutil): Windows optimization and management tool.
+
+---
+
+## 3. Microsoft Activation
+To activate Windows and Office products:
+
+1. Open PowerShell as **Administrator**.
+2. Run the following command:
+
+```powershell
+irm https://get.activated.win | iex
+```
+
+---
+
+## 4. Office Installation Downloads
+- [Office C2R Installers ❤️](https://gravesoft.dev/office_c2r_links)
+
+---
+
+## 5. Driver Installation Guide
+
+### Intel Drivers
+1. Visit [Intel Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/detect.html).
+2. Click "Download Now" to download the software.
+3. Run the downloaded file to complete the installation.
+4. The tool will scan your system and automatically install the required drivers.
+
+### NVIDIA Drivers
+1. Use either the [Official NVIDIA Driver Download Page](https://www.nvidia.com/tr-tr/drivers/) or [NVCleanstall by TechPowerUp](https://www.techpowerup.com/download/techpowerup-nvcleanstall/).
+2. Identify your NVIDIA graphics card model.
+3. Enter your model details to download the appropriate driver.
+4. During installation, use the "Custom Installation" option to remove unnecessary components (NVCleanstall recommended).
+
+### Dell and Alienware Drivers
+1. Download the [Dell Support Assistant](https://downloads.dell.com/serviceability/catalog/SupportAssistInstaller.exe).
+2. Run the program to scan and install the appropriate drivers for your system.
+3. Alienware users can download the [Alienware Command Center 6.x](https://dl.dell.com/FOLDER12124735M/2/Alienware-Command-Center-6x-Full-Installer-for_DDF5T_WIN_6.4.15.0_A00.EXE).
+4. This software is useful for optimizing game and performance settings.
+
+---
+
+## Contribution and Development
+If you want to improve this guide or contribute, please open a pull request or report issues through the [Issues](https://github.com/) tab.
+
+---
+
+<a name="tr"></a>
+
+# 🇹🇷 Windows Kurulum ve Araçlar Rehberi
 
 Bu rehber, Windows işletim sistemlerini yüklemek, optimize etmek, aktivasyon işlemlerini gerçekleştirmek ve sürücü kurulumlarını yönetmek için gerekli kaynakları içerir.
 
@@ -29,6 +103,7 @@ Windows ve Office ürünlerini etkinleştirmek için:
 ```powershell
 irm https://get.activated.win | iex
 ```
+
 ---
 
 ## 4. Office Kurulum İndirmeleri
